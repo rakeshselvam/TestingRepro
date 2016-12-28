@@ -3,3 +3,5 @@ testing file 1, text added from branch
 File content changed
 
 New line added from branch
+
+Line added from Dev Branch
